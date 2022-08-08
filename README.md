@@ -23,10 +23,5 @@ Two tetrominoes combined can fill an outline. Make sure to turn the tetromino in
 * You can mirror the tetrominoes using ``Q`` (horizontally) and ``E`` (vertically)
 * You can switch between the tetromino outlines and the "parking slots" where you can temporarily place not fitting tetrominoes by using the key ``V``.
 * Select the parking slot or tetromino outlines by pressing the number you see right next to the outline/parking slot.
-<<<<<<< HEAD
 * Press ``RETURN`` to insert your selected tetromino into the currently selected outline/parking slot.
 * You can press ``RETURN`` again to change the position of the tetromino in case you have multiple options to fill the current outline.
-=======
-* Press ``RETURN`` to insert your  selected tetromino into the currently selected outline/parking slot.
-* You can press ``RETURN`` again to change the position of the tetromino in case you have multiple options to fill the current ourline.
->>>>>>> 75789ed9d9be271576d800f85d859fd83cee9f3d
