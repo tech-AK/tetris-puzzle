@@ -157,7 +157,7 @@ public class DashboardPanel extends JPanel {
 
         //add points to score
         currentPoints += points;
-        currentScoreLabel.setText("Aktuelle Punkte: " + currentPoints);
+        currentScoreLabel.setText("Current Points: " + currentPoints);
         repaint();
     }
 
